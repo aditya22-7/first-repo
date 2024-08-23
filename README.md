@@ -1,5 +1,9 @@
 # first-repo
 
 This is Readme file for first-repo.
-HELLO WORLd
-hello world
+
+# Student
+at Apna College Delta Batch
+
+# year
+3rd year
